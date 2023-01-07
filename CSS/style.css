@@ -136,7 +136,7 @@
 .positive-content {
     width: 80vw;
     height: 40vh;
-    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(../images/watch.png);
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(../images/banner/watch.png);
     background-repeat: no-repeat;
     border-radius: 8px;
     margin-bottom: 86px;
