@@ -7,7 +7,7 @@
 }
 
 /*-----------------------------------*\
- #HEADER
+ #HEADER 
 \*-----------------------------------*/
 
 .header {
@@ -51,4 +51,45 @@
     border: none;
     color: #FFFFFF;
     margin-bottom: 166px;
+}
+
+/*-----------------------------------*\
+ ##SECOND HERO SECTION
+\*-----------------------------------*/
+
+.second-hero-section {
+    display: flex;
+    align-items: center;
+}
+
+.second-left-side img {
+    width: 65%;
+    margin-left: 90px;
+    margin-top: 70px;
+
+}
+
+.second-right-side {
+    width: 50%;
+    margin-top: 5rem;
+    /* align-content: center; */
+}
+
+.second-section-title {
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 12px;
+}
+
+.second-right-side p {
+    color: dimgray;
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 12px;
+    margin-right: 42%;
+}
+
+.second-section-listing .listing {
+    display: flex;
+    gap: 5px;
 }
